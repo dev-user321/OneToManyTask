@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container mt-5" style="width:700px;margin-left: 260px;background-color:white;" >
+    <div class="form-group">
+        <label for="exampleInputPassword1">Enter Link</label> <br />
+        <input type="text" class="form-control"  placeholder="Trying write something..." style="border:1px solid black;padding-left: 10px;"> <br />
+    </div>
+    <button class="btn btn-primary">Yarat</button>
+    <button class="btn btn-danger">
+        <a asp-area="AdminPanel" asp-controller="Table" asp-action="Index"> Back </a>
+    </button>
+</div>
