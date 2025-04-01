@@ -3,16 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\views\\table\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\table\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\views\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\table\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\views\\shared\\_partialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\controllers\\tablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,24 +99,8 @@
       "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\areas\\adminpanel\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\wwwroot\\img\\blog-feature-img-1.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
@@ -83,20 +131,8 @@
       "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\valentine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Migrations\\20250323115742_CategoryAndProductTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OneToManyTask\\Migrations\\20250323115742_CategoryAndProductTableCreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,16 +143,8 @@
       "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\slidertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\models\\sliderimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\models\\sliderimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|solutionrelative:onetomanytask\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FE3A2A52-246E-47A8-BED1-7053F3E49719}|OneToManyTask\\OneToManyTask.csproj|c:\\users\\lenovo\\desktop\\aspnet-quiz\\onetomany\\onetomanytask\\onetomanytask\\migrations\\20250323141132_blogtablecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -142,7 +170,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -162,33 +190,116 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T05:43:08.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-01T05:32:44.558Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwCoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:32:33.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "OneToManyTask\\wwwroot\\js\\script.js",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "OneToManyTask\\wwwroot\\js\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-26T07:19:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "OneToManyTask\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "OneToManyTask\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T07:04:40.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OneToManyTask\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OneToManyTask\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T07:04:04.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_PartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeDocumentMoniker": "OneToManyTask\\Views\\Shared\\_PartialView.cshtml",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\Shared\\_PartialView.cshtml",
+              "RelativeToolTip": "OneToManyTask\\Views\\Shared\\_PartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-26T06:59:46.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Table\\Create.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Views\\Table\\Create.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Table\\Create.cshtml",
               "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Views\\Table\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T05:01:58.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T05:01:58.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Table\\Index.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Views\\Table\\Index.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Table\\Index.cshtml",
               "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Views\\Table\\Index.cshtml",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAUwNwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T04:38:28.271Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:38:28.271Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 19,
               "Title": "TableController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Controllers\\TableController.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Controllers\\TableController.cs",
@@ -196,12 +307,11 @@
               "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Controllers\\TableController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:37:55.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:37:55.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Views\\Home\\Index.cshtml",
@@ -209,12 +319,11 @@
               "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIYCAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T04:32:04.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:32:04.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Controllers\\HomeController.cs",
@@ -222,12 +331,11 @@
               "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T04:31:14.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:31:14.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
@@ -235,12 +343,11 @@
               "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T04:26:37.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:26:37.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
@@ -248,25 +355,23 @@
               "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T04:26:34.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:26:34.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeToolTip": "OneToManyTask\\Areas\\AdminPanel\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAJMBAAAAAAAAAAAUwLEBAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAEwDMAAABzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-25T04:26:11.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T04:26:11.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "blog-feature-img-1.jpg",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\wwwroot\\img\\blog-feature-img-1.jpg",
               "RelativeDocumentMoniker": "OneToManyTask\\wwwroot\\img\\blog-feature-img-1.jpg",
@@ -277,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 36,
               "Title": "20250323141132_BlogTableCreate.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Migrations\\20250323141132_BlogTableCreate.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Migrations\\20250323141132_BlogTableCreate.cs",
@@ -285,12 +390,11 @@
               "RelativeToolTip": "OneToManyTask\\Migrations\\20250323141132_BlogTableCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:11:32.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T14:11:32.843Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 27,
               "Title": "Blog.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\Blog.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\Blog.cs",
@@ -298,12 +402,11 @@
               "RelativeToolTip": "OneToManyTask\\Models\\Blog.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:09:29.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T14:09:29.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 37,
               "Title": "20250323134954_ExpertAndFlowerExpertTableCreated.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Migrations\\20250323134954_ExpertAndFlowerExpertTableCreated.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Migrations\\20250323134954_ExpertAndFlowerExpertTableCreated.cs",
@@ -311,12 +414,11 @@
               "RelativeToolTip": "OneToManyTask\\Migrations\\20250323134954_ExpertAndFlowerExpertTableCreated.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:49:54.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:49:54.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "Expert.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\Expert.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\Expert.cs",
@@ -324,12 +426,11 @@
               "RelativeToolTip": "OneToManyTask\\Models\\Expert.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:47:38.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:47:38.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "FlowerExpert.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\FlowerExpert.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\FlowerExpert.cs",
@@ -337,12 +438,11 @@
               "RelativeToolTip": "OneToManyTask\\Models\\FlowerExpert.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:46:58.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:46:58.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 38,
               "Title": "20250323132821_ValentineAndValentineTaskTableCreated.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Migrations\\20250323132821_ValentineAndValentineTaskTableCreated.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Migrations\\20250323132821_ValentineAndValentineTaskTableCreated.cs",
@@ -350,12 +450,11 @@
               "RelativeToolTip": "OneToManyTask\\Migrations\\20250323132821_ValentineAndValentineTaskTableCreated.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:28:21.858Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:28:21.858Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "ValentineTask.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\ValentineTask.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\ValentineTask.cs",
@@ -363,12 +462,11 @@
               "RelativeToolTip": "OneToManyTask\\Models\\ValentineTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:26:00.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:26:00.008Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 31,
               "Title": "Valentine.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\Valentine.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\Valentine.cs",
@@ -376,12 +474,11 @@
               "RelativeToolTip": "OneToManyTask\\Models\\Valentine.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T13:25:11.427Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T13:25:11.427Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 39,
               "Title": "20250323120123_CreateAllTable.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Migrations\\20250323120123_CreateAllTable.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Migrations\\20250323120123_CreateAllTable.cs",
@@ -389,12 +486,11 @@
               "RelativeToolTip": "OneToManyTask\\Migrations\\20250323120123_CreateAllTable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T12:01:23.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T12:01:23.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 32,
               "Title": "20250323115742_CategoryAndProductTableCreated.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Migrations\\20250323115742_CategoryAndProductTableCreated.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Migrations\\20250323115742_CategoryAndProductTableCreated.cs",
@@ -405,33 +501,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\Category.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\Category.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\Category.cs",
               "RelativeToolTip": "OneToManyTask\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:42:45.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:42:45.935Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 17,
               "Title": "ProductImage.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\ProductImage.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\ProductImage.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\ProductImage.cs",
               "RelativeToolTip": "OneToManyTask\\Models\\ProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:24:49.715Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:24:49.715Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\Product.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\Product.cs",
@@ -439,12 +533,11 @@
               "RelativeToolTip": "OneToManyTask\\Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:24:04.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:24:04.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "SliderText.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\SliderText.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\SliderText.cs",
@@ -452,12 +545,11 @@
               "RelativeToolTip": "OneToManyTask\\Models\\SliderText.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T11:05:25.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T11:05:25.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "HomeVM.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\ViewModels\\HomeVM.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\ViewModels\\HomeVM.cs",
@@ -465,12 +557,11 @@
               "RelativeToolTip": "OneToManyTask\\ViewModels\\HomeVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:47:33.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:47:33.927Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Data\\AppDbContext.cs",
@@ -478,12 +569,11 @@
               "RelativeToolTip": "OneToManyTask\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:43:07.956Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:43:07.956Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\BaseEntity.cs",
@@ -491,12 +581,11 @@
               "RelativeToolTip": "OneToManyTask\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:40:21.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:40:21.933Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "SliderImage.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Models\\SliderImage.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Models\\SliderImage.cs",
@@ -504,51 +593,47 @@
               "RelativeToolTip": "OneToManyTask\\Models\\SliderImage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:40:12.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:40:12.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Controllers\\HomeController.cs",
               "RelativeToolTip": "OneToManyTask\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAgwEoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:38:55.125Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:38:55.125Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "OneToManyTask\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T10:37:22.262Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:37:22.262Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 13,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "OneToManyTask\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEBAAAAAAAAAAAAAI4BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T10:28:20.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:28:20.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 16,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "OneToManyTask\\Views\\_ViewImports.cshtml",
@@ -556,12 +641,11 @@
               "RelativeToolTip": "OneToManyTask\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-23T10:27:58.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:27:58.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\Program.cs",
               "RelativeDocumentMoniker": "OneToManyTask\\Program.cs",
@@ -569,12 +653,11 @@
               "RelativeToolTip": "OneToManyTask\\Program.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwCIAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T10:27:49.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:27:49.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\appsettings.json",
               "RelativeDocumentMoniker": "OneToManyTask\\appsettings.json",
@@ -582,8 +665,7 @@
               "RelativeToolTip": "OneToManyTask\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T10:27:47.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T10:27:47.445Z"
             }
           ]
         }

@@ -1,6 +1,11 @@
+﻿const { url } = require("node:inspector/promises");
+
 $(document).ready(function () {
 
     // HEADER
+
+
+    
 
     $(document).on('click', '#search', function () {
         $(this).next().toggle();

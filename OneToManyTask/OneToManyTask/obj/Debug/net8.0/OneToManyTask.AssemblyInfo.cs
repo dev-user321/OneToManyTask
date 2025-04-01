@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OneToManyTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b1c0439e86fb2f5addccf0d05338badd7e83ec9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee51f8b4e34fce8cb3cf6cf49633bc216595d3a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("OneToManyTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OneToManyTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

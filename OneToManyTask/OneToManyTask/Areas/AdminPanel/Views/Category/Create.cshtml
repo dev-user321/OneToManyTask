@@ -1,0 +1,25 @@
+﻿
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/AdminPanel/Views/Shared/_AdminLayout.cshtml";
+}
+@model Category
+
+<form method="post" asp-area="AdminPanel" asp-controller="Category" asp-action="Create">
+    <div class="container mt-5" style="width:700px;margin-left: 260px;background-color:white;">
+        <div class="form-group">
+            <label for="categoryName">Enter Category Name</label> <br />
+            <input asp-for="Name" type="text" id="categoryName" class="form-control" placeholder="Trying write Category Name ..." style="border:1px solid black;padding-left: 10px;">
+            <br />
+            <span class="text-danger" asp-validation-for="Name"></span>
+            <span class="text-danger">@ViewBag.ErrMessage</span>
+        </div>
+        <button type="submit" class="btn btn-primary">Yarat</button>
+        <a asp-area="AdminPanel" asp-controller="Category" asp-action="Index" class="btn btn-danger">Back</a>
+    </div>
+</form>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation/1.19.3/jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/3.2.11/jquery.validate.unobtrusive.min.js"></script>
+

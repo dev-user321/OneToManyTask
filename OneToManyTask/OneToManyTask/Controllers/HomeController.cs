@@ -28,6 +28,7 @@ namespace OneToManyTask.Controllers
 
             var products = await _context.Products
                 .Where(m => !m.IsDeleted)
+                .Take(4)
                 .ToListAsync();
 
             var productImages = await _context.ProductImages

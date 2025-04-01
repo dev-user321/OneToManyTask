@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZJlFUT2vo370a7oADMqzpxlu8ms8hkdCjro7FyY3WWU=",
+  "Hash": "qtv4/IIdn1OSjfH1W2jXu2McrQ/lDOB2R5/yYUpbAY4=",
   "Source": "OneToManyTask",
   "BasePath": "_content/OneToManyTask",
   "Mode": "Default",
@@ -7675,8 +7675,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "b3i1cl0pck",
-      "Integrity": "Ka7bN3bjJE/EG/gEkM/qY2C1zT3BV0bi87YkkBpvGuI=",
+      "Fingerprint": "92x2o1hnqp",
+      "Integrity": "4Z8JdkW91aRIP5xHy0/j4gF0MCDuma88DxMK/9LUTb4=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\script.js"
@@ -37830,7 +37830,7 @@
       ]
     },
     {
-      "Route": "js/script.b3i1cl0pck.js",
+      "Route": "js/script.92x2o1hnqp.js",
       "AssetFile": "C:\\Users\\Lenovo\\Desktop\\AspNet-Quiz\\OneToMany\\OneToManyTask\\OneToManyTask\\wwwroot\\js\\script.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -37840,7 +37840,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4142"
+          "Value": "4210"
         },
         {
           "Name": "Content-Type",
@@ -37848,11 +37848,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ka7bN3bjJE/EG/gEkM/qY2C1zT3BV0bi87YkkBpvGuI=\""
+          "Value": "\"4Z8JdkW91aRIP5xHy0/j4gF0MCDuma88DxMK/9LUTb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 10:08:15 GMT"
+          "Value": "Wed, 26 Mar 2025 09:48:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37862,7 +37862,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "b3i1cl0pck"
+          "Value": "92x2o1hnqp"
         },
         {
           "Name": "label",
@@ -37870,7 +37870,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ka7bN3bjJE/EG/gEkM/qY2C1zT3BV0bi87YkkBpvGuI="
+          "Value": "sha256-4Z8JdkW91aRIP5xHy0/j4gF0MCDuma88DxMK/9LUTb4="
         }
       ]
     },
@@ -37885,7 +37885,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4142"
+          "Value": "4210"
         },
         {
           "Name": "Content-Type",
@@ -37893,11 +37893,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ka7bN3bjJE/EG/gEkM/qY2C1zT3BV0bi87YkkBpvGuI=\""
+          "Value": "\"4Z8JdkW91aRIP5xHy0/j4gF0MCDuma88DxMK/9LUTb4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 21 Mar 2025 10:08:15 GMT"
+          "Value": "Wed, 26 Mar 2025 09:48:26 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -37907,7 +37907,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ka7bN3bjJE/EG/gEkM/qY2C1zT3BV0bi87YkkBpvGuI="
+          "Value": "sha256-4Z8JdkW91aRIP5xHy0/j4gF0MCDuma88DxMK/9LUTb4="
         }
       ]
     },

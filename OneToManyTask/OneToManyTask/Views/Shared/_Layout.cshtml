@@ -46,7 +46,7 @@
                                 <li class="nav-item">
                                     <a class="nav-link" href="#">Pages</a>
                                     <ul class="list-unstyled py-3">
-                                        <li class=""><a class="px-1" href="">Page 1</a></li>
+                                        <li class=""><a class="px-1" asp-controller="Product" asp-action="Index">Product List</a></li>
                                         <li class=""><a class="px-1" href="">Page 2</a></li>
                                         <li class=""><a class="px-1" href="">Page 3</a></li>
                                     </ul>
@@ -389,8 +389,8 @@
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
     <script src="https://kit.fontawesome.com/e5e249fce2.js" crossorigin="anonymous"></script>
-    <script src="owlcarousel/owl.carousel.min.js"></script>
-    <script src="js/script.js"></script>
+    <script src="~/owlcarousel/owl.carousel.min.js"></script>
+    <script src="~/js/script.js"></script>
     @await RenderSectionAsync("Scripts", required: false)
 
 </body>
